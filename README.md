@@ -1,2 +1,2 @@
 # hello-world
-my first repository
+this is my learning to use gitub
